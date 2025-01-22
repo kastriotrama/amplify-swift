@@ -24,7 +24,7 @@
       "location" : "https://github.com/awslabs/aws-sdk-swift",
       "state" : {
         "revision" : "9ad12684f6cb9c9b60e840c051a2bba604024650",
-        "version" : "1.0.69"
+        "version" : "2.38.0"
       }
     },
     {
