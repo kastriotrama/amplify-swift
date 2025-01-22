@@ -21,9 +21,9 @@
     {
       "identity" : "aws-sdk-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/awslabs/aws-sdk-swift",
+      "location" : "https://github.com/aws-amplify/aws-sdk-ios-spm",
       "state" : {
-        "revision" : "9ad12684f6cb9c9b60e840c051a2bba604024650",
+        "revision" : "6813ed293afac25565b4e1d612b890d1fe9219d7",
         "version" : "2.38.0"
       }
     },
